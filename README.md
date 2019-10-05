@@ -10,7 +10,7 @@ This project will be divided into two sections and their outputs will output fro
 1)	Final Report (Narrative and Visualisation Methodology) 
 
 This contains an ordered compilation of insights derived from the exploratory and visual analysis, a discussion into their implications, followed by a summarization of key findings through the illustration of a concluding infographic. 
-The report alson outlines the methods for retrieving, processing and visualising the data, as well as an explanation on for the visual or design choices for conveying the data.. 
+The report alson outlines the methods for retrieving, processing and visualising the data, as well as an explanation on for the visual or design choices for conveying the data.
 
 
 2)	Interactive Data Visualisation Tableau Storyboard: a dashboard published to Tableau Server, which enables the user to engage with the visualisations that furnish the insights for the Narrative Report.
