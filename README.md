@@ -7,7 +7,7 @@ In an aim to contextualise the discussion of global life expectancy, a variety o
 
 This project will be divided into two sections and their outputs will output from this project will proceed as follows:
 
-1)	Final Report (Narrative and Visualisation Methodolody) 
+1)	Final Report (Narrative and Visualisation Methodology) 
 
 This contains an ordered compilation of insights derived from the exploratory and visual analysis, a discussion into their implications, followed by a summarization of key findings through the illustration of a concluding infographic. 
 The report alson outlines the methods for retrieving, processing and visualising the data, as well as an explanation on for the visual or design choices for conveying the data.. 
